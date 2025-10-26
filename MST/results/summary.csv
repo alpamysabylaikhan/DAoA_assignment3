@@ -1,0 +1,7 @@
+Graph,Algorithm,TotalWeight,Vertices,Edges,Operations,TimeMs
+input_small,Prim,7,4,4,6,0.5750
+input_small,Kruskal,7,4,4,7,0.5064
+input_medium,Prim,14,8,10,16,0.0413
+input_medium,Kruskal,14,8,10,16,0.0809
+input_large,Prim,44,15,20,33,0.0942
+input_large,Kruskal,44,15,20,29,0.0822

@@ -1,0 +1,50 @@
+{
+  "input_small": {
+    "Prim": {
+      "totalWeight": 7,
+      "verticesCount": 4,
+      "edgesCount": 4,
+      "operations": 6,
+      "timeMs": 0.575
+    },
+    "Kruskal": {
+      "totalWeight": 7,
+      "verticesCount": 4,
+      "edgesCount": 4,
+      "operations": 7,
+      "timeMs": 0.5064
+    }
+  },
+  "input_medium": {
+    "Prim": {
+      "totalWeight": 14,
+      "verticesCount": 8,
+      "edgesCount": 10,
+      "operations": 16,
+      "timeMs": 0.0413
+    },
+    "Kruskal": {
+      "totalWeight": 14,
+      "verticesCount": 8,
+      "edgesCount": 10,
+      "operations": 16,
+      "timeMs": 0.0809
+    }
+  },
+  "input_large": {
+    "Prim": {
+      "totalWeight": 44,
+      "verticesCount": 15,
+      "edgesCount": 20,
+      "operations": 33,
+      "timeMs": 0.0942
+    },
+    "Kruskal": {
+      "totalWeight": 44,
+      "verticesCount": 15,
+      "edgesCount": 20,
+      "operations": 29,
+      "timeMs": 0.0822
+    }
+  }
+}
